@@ -5,7 +5,16 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/erloz/OneDrive/Documentos/GitHub/Motores2BT/Motores2BT/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+				"C:/Users/erloz/OneDrive/Documentos/GitHub/Motores2BT/Motores2BT/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/erloz/OneDrive/Documentos/GitHub/Motores2BT/Motores2BT/Content/Characters/AI/BP_NPC.uasset",
+				"C:/Users/erloz/OneDrive/Documentos/GitHub/Motores2BT/Motores2BT/Content/Characters/Mannequins/Animations/ABP_Manny.uasset",
+				"C:/Users/erloz/OneDrive/Documentos/GitHub/Motores2BT/Motores2BT/Content/Characters/AI/Tasks/BTTask_MoveRandomLocation.uasset",
+				"C:/Users/erloz/OneDrive/Documentos/GitHub/Motores2BT/Motores2BT/Content/Characters/AI/BT_NPC.uasset",
+				"C:/Users/erloz/OneDrive/Documentos/GitHub/Motores2BT/Motores2BT/Content/Characters/AI/AI_NPC.uasset",
+				"C:/Users/erloz/OneDrive/Documentos/GitHub/Motores2BT/Motores2BT/Content/Characters/AI/BB_NPC.uasset",
+				"C:/Users/erloz/OneDrive/Documentos/GitHub/Motores2BT/Motores2BT/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/U4/Z6QEZ3GRIPN05S7SJC1IES.uasset",
+				"C:/Users/erloz/OneDrive/Documentos/GitHub/Motores2BT/Motores2BT/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/NB/LMDDKQ6MVKY09CFT8I081B.uasset",
+				"C:/Users/erloz/OneDrive/Documentos/GitHub/Motores2BT/Motores2BT/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/4Z/2RI13GU72O35H7Y7VJQSH4.uasset"
 			]
 		}
 	]
